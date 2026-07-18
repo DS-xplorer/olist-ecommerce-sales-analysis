@@ -134,17 +134,15 @@ Business Insights & Recommendations
 ---
 # 📸 Dashboard Preview
 
-# 📸 Dashboard Preview
+## 👥 Customer Insights Dashboard
+
+![Customer Insights Dashboard](Dashboards/Customer_Insights_Dashboard.png)
+
+---
 
 ## 📊 Executive Dashboard
 
 ![Executive Dashboard](Dashboards/Executive_Dashboard.png)
-
----
-
-## 👥 Customer Insights Dashboard
-
-![Customer Insights Dashboard](Dashboards/Customer_Insights_Dashboard.png)
 
 ---
 
@@ -154,9 +152,6 @@ Business Insights & Recommendations
 
 ---
 
-## 🏪 Seller Performance Dashboard
-
-![Seller Performance Dashboard](Dashboards/Seller_Performance_Dashboard.png)
 ## 🏪 Seller Performance Dashboard
 
 ![Seller Performance Dashboard](Dashboards/Seller_Performance_Dashboard.png)
