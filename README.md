@@ -136,19 +136,19 @@ Business Insights & Recommendations
 
 ## 📊 Executive Dashboard
 
-Dashboards/Executive_Dashboard.png
+![Customer Insights Dashboard](Dashboards/Customer_Insights_Dashboard.png)
 
 ---
 
 ## 👥 Customer Insights Dashboard
 
-![Customer Insights Dashboard](Dashboards/Customer_Insights_Dashboard.png)
+![Product Performance Dashboard](Dashboards/Product_Performance_Dashboard.png)
 
 ---
 
 ## 📦 Product Performance Dashboard
 
-![Product Performance Dashboard](Dashboards/Product_Performance_Dashboard.png)
+![Executive Dashboard](Dashboards/Executive_Dashboard.png)
 
 ---
 
