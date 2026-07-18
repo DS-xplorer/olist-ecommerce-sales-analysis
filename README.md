@@ -134,15 +134,15 @@ Business Insights & Recommendations
 ---
 # 📸 Dashboard Preview
 
-## 👥 Customer Insights Dashboard
+## 📊 Executive Dashboard
 
-![Customer Insights Dashboard](Dashboards/Customer_Insights_Dashboard.png)
+![Executive Dashboard](Dashboards/Executive_Dashboard.png)
 
 ---
 
-## 📊 Executive Dashboard
+## 👥 Customer Insights Dashboard
 
-"C:\Users\Dell\Desktop\Olist E-Commerce Analysis\Dashboards\Executive_Dashboard.png"
+![Customer Insights Dashboard](Dashboards/Customer_Insights_Dashboard.png)
 
 ---
 
@@ -155,7 +155,6 @@ Business Insights & Recommendations
 ## 🏪 Seller Performance Dashboard
 
 ![Seller Performance Dashboard](Dashboards/Seller_Performance_Dashboard.png)
-
 ---
 
 # 💡 Key Business Insights
