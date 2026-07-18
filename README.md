@@ -136,7 +136,7 @@ Business Insights & Recommendations
 
 ## 📊 Executive Dashboard
 
-![Uploading Executive_Dashboard.png…]()
+Dashboards/Executive_Dashboard.png
 
 ---
 
