@@ -142,7 +142,7 @@ Business Insights & Recommendations
 
 ## 📊 Executive Dashboard
 
-![Executive Dashboard](Dashboards/Executive_Dashboard.png)
+"C:\Users\Dell\Desktop\Olist E-Commerce Analysis\Dashboards\Executive_Dashboard.png"
 
 ---
 
